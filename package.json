@@ -1,6 +1,6 @@
 {
   "name": "webpack-webext-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A WebPack plugin which integrates web-ext command into webpack config",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "Luca Greco <lgreco@mozilla.com>",
   "license": "MIT",
   "dependencies": {
-    "web-ext": "^1.7.0"
+    "web-ext": "^7.11.0"
   }
 }
